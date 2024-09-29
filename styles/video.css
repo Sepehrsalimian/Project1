@@ -39,6 +39,7 @@
   row-gap: 40px;
 }
 .video-time {
+  font-family: Roboto, Arial;
   background-color: black;
   color: white;
   position: absolute;

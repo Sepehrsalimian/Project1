@@ -12,3 +12,6 @@
 .sidebar-link:hover {
   background-color: rgb(235, 235, 235);
 }
+.sidebar-link img {
+  height: 24px;
+}

@@ -8,6 +8,9 @@
 }
 .sidebar-link {
   height: 76px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .sidebar-link:hover {
   background-color: rgb(235, 235, 235);
